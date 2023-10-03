@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "nom": "Toyota Corolla",
+      "marque": "Toyota",
+      "annee": 2022,
+      "couleur": "Bleu",
+      "prix": 24999.99
+    },
+    {
+      "id": 2,
+      "nom": "Honda Civic",
+      "marque": "Honda",
+      "annee": 2022,
+      "couleur": "Gris",
+      "prix": 23999.99
+    },
+    {
+      "id": 3,
+      "nom": "Ford Mustang",
+      "marque": "Ford",
+      "annee": 2023,
+      "couleur": "Rouge",
+      "prix": 45999.99
+    },
+    {
+      "id": 4,
+      "nom": "Chevrolet Malibu",
+      "marque": "Chevrolet",
+      "annee": 2022,
+      "couleur": "Noir",
+      "prix": 26999.99
+    },
+    {
+      "id": 5,
+      "nom": "Nissan Altima",
+      "marque": "Nissan",
+      "annee": 2023,
+      "couleur": "Blanc",
+      "prix": 27999.99
+    },
+    {
+      "id": 6,
+      "nom": "Hyundai Elantra",
+      "marque": "Hyundai",
+      "annee": 2022,
+      "couleur": "Argent",
+      "prix": 22999.99
+    },
+    {
+      "id": 7,
+      "nom": "Volkswagen Golf",
+      "marque": "Volkswagen",
+      "annee": 2022,
+      "couleur": "Vert",
+      "prix": 25999.99
+    },
+    {
+      "id": 8,
+      "nom": "Mazda CX-5",
+      "marque": "Mazda",
+      "annee": 2023,
+      "couleur": "Bleu foncé",
+      "prix": 31999.99
+    },
+    {
+      "id": 9,
+      "nom": "Subaru Outback",
+      "marque": "Subaru",
+      "annee": 2022,
+      "couleur": "Gris foncé",
+      "prix": 29999.99
+    },
+    {
+      "id": 10,
+      "nom": "Kia Sportage",
+      "marque": "Kia",
+      "annee": 2023,
+      "couleur": "Blanc nacré",
+      "prix": 26999.99
+    },
+    {
+      "id": 11,
+      "nom": "Tesla Model 3",
+      "marque": "Tesla",
+      "annee": 2023,
+      "couleur": "Rouge",
+      "prix": 49999.99
+    },
+    {
+      "id": 12,
+      "nom": "BMW X5",
+      "marque": "BMW",
+      "annee": 2022,
+      "couleur": "Noir",
+      "prix": 59999.99
+    },
+    {
+      "id": 13,
+      "nom": "Mercedes-Benz C-Class",
+      "marque": "Mercedes-Benz",
+      "annee": 2023,
+      "couleur": "Argent",
+      "prix": 52999.99
+    },
+    {
+      "id": 14,
+      "nom": "Audi A4",
+      "marque": "Audi",
+      "annee": 2022,
+      "couleur": "Gris métallique",
+      "prix": 48999.99
+    },
+    {
+      "id": 15,
+      "nom": "Lexus RX 350",
+      "marque": "Lexus",
+      "annee": 2023,
+      "couleur": "Blanc perle",
+      "prix": 53999.99
+    },
+    {
+      "id": 16,
+      "nom": "Jeep Wrangler",
+      "marque": "Jeep",
+      "annee": 2022,
+      "couleur": "Vert olive",
+      "prix": 34999.99
+    },
+    {
+      "id": 17,
+      "nom": "Land Rover Range Rover",
+      "marque": "Land Rover",
+      "annee": 2022,
+      "couleur": "Bleu nuit",
+      "prix": 79999.99
+    },
+    {
+      "id": 18,
+      "nom": "Porsche 911",
+      "marque": "Porsche",
+      "annee": 2023,
+      "couleur": "Rouge vif",
+      "prix": 99999.99
+    },
+    {
+      "id": 19,
+      "nom": "Ferrari 488 GTB",
+      "marque": "Ferrari",
+      "annee": 2023,
+      "couleur": "Jaune",
+      "prix": 299999.99
+    },
+    {
+      "id": 20,
+      "nom": "Lamborghini Aventador",
+      "marque": "Lamborghini",
+      "annee": 2023,
+      "couleur": "Orange",
+      "prix": 449999.99
+    }
+  ]
+  
