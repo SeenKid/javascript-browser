@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "titre": "T-shirt en coton",
+      "description": "Un t-shirt en coton doux de couleur blanche.",
+      "prix": 15.99,
+      "categorie": "Vêtements"
+    },
+    {
+      "id": 2,
+      "titre": "Chaussures de course",
+      "description": "Des chaussures de course légères pour hommes.",
+      "prix": 79.99,
+      "categorie": "Chaussures"
+    },
+    {
+      "id": 3,
+      "titre": "Ordinateur portable HP",
+      "description": "Un ordinateur portable HP avec un processeur puissant et un écran HD.",
+      "prix": 899.99,
+      "categorie": "Informatique"
+    },
+    {
+      "id": 4,
+      "titre": "Livre : Introduction à la programmation",
+      "description": "Un livre d'introduction à la programmation pour les débutants.",
+      "prix": 29.99,
+      "categorie": "Livres"
+    },
+    {
+      "id": 5,
+      "titre": "Montre-bracelet en acier inoxydable",
+      "description": "Une montre-bracelet élégante en acier inoxydable pour hommes.",
+      "prix": 149.99,
+      "categorie": "Accessoires"
+    }
+  ]
+  
