@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "nom": "Dell XPS 13",
+      "marque": "Dell",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 1399.99
+    },
+    {
+      "id": 2,
+      "nom": "Apple MacBook Air",
+      "marque": "Apple",
+      "processeur": "Apple M1",
+      "ram": "8 Go",
+      "stockage": "256 Go SSD",
+      "prix": 999.99
+    },
+    {
+      "id": 3,
+      "nom": "HP Spectre x360",
+      "marque": "HP",
+      "processeur": "Intel Core i5",
+      "ram": "8 Go",
+      "stockage": "256 Go SSD",
+      "prix": 1099.99
+    },
+    {
+      "id": 4,
+      "nom": "Lenovo ThinkPad X1 Carbon",
+      "marque": "Lenovo",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "1 To SSD",
+      "prix": 1699.99
+    },
+    {
+      "id": 5,
+      "nom": "Asus ROG Zephyrus G14",
+      "marque": "Asus",
+      "processeur": "AMD Ryzen 9",
+      "ram": "32 Go",
+      "stockage": "1 To SSD",
+      "prix": 1599.99
+    },
+    {
+      "id": 6,
+      "nom": "Acer Predator Helios 300",
+      "marque": "Acer",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 1199.99
+    },
+    {
+      "id": 7,
+      "nom": "Microsoft Surface Laptop 4",
+      "marque": "Microsoft",
+      "processeur": "Intel Core i5",
+      "ram": "8 Go",
+      "stockage": "256 Go SSD",
+      "prix": 1099.99
+    },
+    {
+      "id": 8,
+      "nom": "Dell Inspiron 15",
+      "marque": "Dell",
+      "processeur": "Intel Core i5",
+      "ram": "12 Go",
+      "stockage": "512 Go SSD",
+      "prix": 899.99
+    },
+    {
+      "id": 9,
+      "nom": "Apple iMac",
+      "marque": "Apple",
+      "processeur": "Apple M1",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 1399.99
+    },
+    {
+      "id": 10,
+      "nom": "HP Envy 13",
+      "marque": "HP",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 1299.99
+    },
+    {
+      "id": 11,
+      "nom": "Asus ZenBook 14",
+      "marque": "Asus",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "1 To SSD",
+      "prix": 1299.99
+    },
+    {
+      "id": 12,
+      "nom": "Lenovo Yoga C940",
+      "marque": "Lenovo",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 1299.99
+    },
+    {
+      "id": 13,
+      "nom": "Microsoft Surface Pro 7",
+      "marque": "Microsoft",
+      "processeur": "Intel Core i5",
+      "ram": "8 Go",
+      "stockage": "256 Go SSD",
+      "prix": 999.99
+    },
+    {
+      "id": 14,
+      "nom": "Acer Chromebook 14",
+      "marque": "Acer",
+      "processeur": "Intel Celeron",
+      "ram": "4 Go",
+      "stockage": "32 Go eMMC",
+      "prix": 299.99
+    },
+    {
+      "id": 15,
+      "nom": "Dell Precision 7550",
+      "marque": "Dell",
+      "processeur": "Intel Xeon",
+      "ram": "32 Go",
+      "stockage": "512 Go SSD",
+      "prix": 2299.99
+    },
+    {
+      "id": 16,
+      "nom": "Asus VivoBook 15",
+      "marque": "Asus",
+      "processeur": "AMD Ryzen 7",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 899.99
+    },
+    {
+      "id": 17,
+      "nom": "Acer Aspire 5",
+      "marque": "Acer",
+      "processeur": "Intel Core i5",
+      "ram": "8 Go",
+      "stockage": "256 Go SSD",
+      "prix": 599.99
+    },
+    {
+      "id": 18,
+      "nom": "MSI GS66 Stealth",
+      "marque": "MSI",
+      "processeur": "Intel Core i9",
+      "ram": "32 Go",
+      "stockage": "1 To SSD",
+      "prix": 2299.99
+    },
+    {
+      "id": 19,
+      "nom": "Razer Blade 15",
+      "marque": "Razer",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "1 To SSD",
+      "prix": 1999.99
+    },
+    {
+      "id": 20,
+      "nom": "LG Gram 17",
+      "marque": "LG",
+      "processeur": "Intel Core i7",
+      "ram": "16 Go",
+      "stockage": "512 Go SSD",
+      "prix": 1499.99
+    }
+  ]
+  
